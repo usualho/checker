@@ -1,6 +1,3 @@
 # checker
 
-Checker readme
-Check this
-Something more
-final
+Checker readme updated today. Will check for the updated code.
